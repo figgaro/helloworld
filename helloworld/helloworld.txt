@@ -1,1 +1,15 @@
-some where in the world
+t
+hello worlds
+insert
+save
+exit
+
+
+wa
+w helloworld.txt
+:x
+:q!
+q
+
+
+
