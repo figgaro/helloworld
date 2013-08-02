@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 some where in the world
 I love git.
 =======
@@ -45,4 +46,10 @@ test branch befor merge
 >>>>>>> testbranch
 =======
 hello world!! there is my branch.
+>>>>>>> testbranch
+=======
+hello world!! there is my branch.
+
+
+add line for merge
 >>>>>>> testbranch
