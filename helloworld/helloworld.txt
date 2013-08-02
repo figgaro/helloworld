@@ -3,7 +3,7 @@ hello worlds
 insert
 save
 exit
-
+
 
 wa
 w helloworld.txt
@@ -11,5 +11,7 @@ w helloworld.txt
 :q!
 q
 
+
+test vim
 
 
