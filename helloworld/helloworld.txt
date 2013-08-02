@@ -1,2 +1,22 @@
+<<<<<<< HEAD
 some where in the world
 I love git.
+=======
+t
+hello worlds
+insert
+save
+exit
+
+
+wa
+w helloworld.txt
+:x
+:q!
+q
+
+
+test vim
+
+
+>>>>>>> testbranch
