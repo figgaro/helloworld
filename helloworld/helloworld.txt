@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 some where in the world
 I love git.
 =======
@@ -18,5 +19,26 @@ q
 
 test vim
 
+
+>>>>>>> testbranch
+=======
+t
+hello worlds
+insert
+save
+exit
+
+
+wa
+w helloworld.txt
+:x
+:q!
+q
+
+
+test vim
+
+
+test branch befor merge
 
 >>>>>>> testbranch
